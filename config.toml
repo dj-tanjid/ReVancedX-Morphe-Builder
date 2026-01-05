@@ -118,11 +118,12 @@ uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 
 
 [Reddit-Extended]
-enabled = false
+enabled = true
 app-name = "Reddit"
 patches-source = "inotia00/revanced-patches"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
+version = "2026.01.0"
 arch = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/redditinc/reddit/"
 uptodown-dlurl = "https://reddit-official-app.en.uptodown.com/android"
