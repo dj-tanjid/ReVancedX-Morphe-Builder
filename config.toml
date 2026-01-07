@@ -53,7 +53,7 @@ app-name = "YouTube"
 patches-source = "MorpheApp/morphe-patches"
 cli-source = "MorpheApp/morphe-cli"
 rv-brand = "Morphe"
-build-mode = "both"
+build-mode = "apk"
 version = "20.51.39"
 excluded-patches = """\
     'Custom branding name for YouTube' \
@@ -120,7 +120,7 @@ uptodown-dlurl = "https://youtube-music.en.uptodown.com/android"
 
 
 [Reddit-Extended]
-enabled = true
+enabled = false
 app-name = "Reddit"
 patches-source = "inotia00/revanced-patches"
 cli-source = "inotia00/revanced-cli"
