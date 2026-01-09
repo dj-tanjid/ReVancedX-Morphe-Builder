@@ -54,7 +54,7 @@ patches-source = "MorpheApp/morphe-patches"
 cli-source = "MorpheApp/morphe-cli"
 rv-brand = "Morphe"
 build-mode = "both"
-version = "auto"
+# version = "auto"
 version = "21.02.32"
 excluded-patches = """\
     'Custom branding name for YouTube' \
