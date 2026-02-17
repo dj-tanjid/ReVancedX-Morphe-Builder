@@ -676,7 +676,8 @@ module_prop() {
 name=${2}
 version=v${3}
 versionCode=${NEXT_VER_CODE}
-author=LovecraftianGodsKiller
+author=dj_tanjid | j-hc
+banner=https://raw.githubusercontent.com/dj-tanjid/ReVancedX-Morphe-Builder/main/${1}/banner.png
 description=${4}" >"${6}/module.prop"
 
 	if [ "$ENABLE_MAGISK_UPDATE" = true ]; then echo "updateJson=${5}" >>"${6}/module.prop"; fi
