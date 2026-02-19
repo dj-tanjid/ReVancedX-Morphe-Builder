@@ -40,7 +40,7 @@ patcher-args = "-e 'Theme' -OdarkThemeBackgroundColor='@android:color/system_neu
 version = "21.06.261"
 patches-version = "v1.15.0-dev.2"
 # apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
-# uptodown-dlurl = "https://youtube.en.uptodown.com/android"
+uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 archive-dlurl = "https://archive.org/download/com.google.android.youtube-21.07.243-all"
 
