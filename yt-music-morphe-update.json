@@ -1,6 +1,6 @@
 {
-  "version": "v9.06.51 (patches dev.9.mpp)",
-  "versionCode": 3,
-  "zipUrl": "https://github.com/dj-tanjid/ReVancedX-Morphe-Builder/releases/download/3/yt-music-morphe-magisk-v9.06.51-arm64-v8a.zip",
+  "version": "v9.06.51 (patches dev.2.mpp)",
+  "versionCode": 5,
+  "zipUrl": "https://github.com/dj-tanjid/ReVancedX-Morphe-Builder/releases/download/5/yt-music-morphe-magisk-v9.06.51-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/dj-tanjid/ReVancedX-Morphe-Builder/update/build.md"
 }
