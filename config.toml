@@ -42,7 +42,7 @@ patches-version = "v1.15.0-dev.2"
 # apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
-archive-dlurl = "https://archive.org/download/com.google.android.youtube-21.07.243-all"
+# archive-dlurl = "https://archive.org/download/com.google.android.youtube-21.07.243-all"
 
 [Music-Morphe]
 enabled = true
